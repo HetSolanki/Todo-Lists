@@ -3,8 +3,8 @@
 - [ ] Gradiants and Keyframes in HTML
 - [ ] 2D Transfomation in HTML
 - [ ] PHP File Structure
-- [ ] Syntax for Creating Arrays In PHP
-- [ ] Looping Over Arrays in PHP
+- [x] Syntax for Creating Arrays In PHP
+- [x] Looping Over Arrays in PHP
 - [ ] Use Array Functions
 - [x] Functions In PHP
 - [x] Default Arguments, Variable Length Arguments, Pass by Value, Pass by reference
