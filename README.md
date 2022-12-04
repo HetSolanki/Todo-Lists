@@ -8,6 +8,6 @@
 - [ ] Use Array Functions
 - [ ] Functions In PHP
 - [ ] Default Arguments, Variable Length Arguments, Pass by Value, Pass by reference
-- [ ] String Functions in PHP
+- [x] String Functions in PHP
 - [x] Math Functions in PHP
 - [x] Date Functions in PHP
